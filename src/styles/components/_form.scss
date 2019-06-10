@@ -1,0 +1,11 @@
+.todo-form{
+    padding:$m-size;
+    display:flex;
+    justify-content: space-between
+}
+
+.todo-input{
+    width: 40rem;
+    background-color:$grey;
+    padding-left:$s-size
+}
